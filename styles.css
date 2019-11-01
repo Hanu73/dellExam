@@ -1,0 +1,57 @@
+
+
+.row{
+    margin-left:0% !important;
+    display: flex !important;
+}
+.borderGrey{
+    border : 1px solid #ddd;
+}
+.padding-5{
+    padding : 5%
+}
+
+.names{
+    font-size: 18px;
+}
+
+.hoverStyles:hover{
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 0 40px rgba(0,0,0,.2);
+    cursor: pointer;
+}
+.mt-5{
+    margin-top : 5%
+}
+.mainBg{
+    background: #eee;
+}
+.bgWhite{
+    background: #fff
+}
+
+.srchBlock{
+    display: table;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.int-search-controls {
+    display: table;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+}
+
+.mtop-1{
+    margin-top: 1%;
+}
+
+.input-group, .input-group-append{
+    display: flex !important;
+}
