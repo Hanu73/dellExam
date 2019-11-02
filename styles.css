@@ -1,5 +1,6 @@
-
-
+body{
+    background: #eeeeee;
+}
 .row{
     margin-left:0% !important;
     display: flex !important;
@@ -54,4 +55,60 @@
 
 .input-group, .input-group-append{
     display: flex !important;
+}
+.btnStyle{
+    color: #007db8;
+    background-color: #f9f9f9;
+    border-color: #ccc;
+    border-radius : 0% !important;
+}
+
+.blockHeight{
+    height: 213px;
+}
+
+.mtop-7{
+    margin-top: 7%;
+}
+
+.borderTop{
+    border-top: 1px solid #ddd;
+}
+.marginLeft15minus{
+    margin-left: -15px !important;
+}
+.noPadding{
+    padding: 0%;
+}
+.borderRight {
+    border-right: 1px solid #ddd;
+}
+.mtop2{
+    padding-top: 4%;
+}
+
+.colorBlue{
+    color: #007db8;
+}
+.cursorPointer{
+    cursor: pointer;
+}
+
+.cardStyle{
+    border-left: 3px solid #007db8;
+}
+.cardStyleGrey{
+    border-left: 3px solid #777777;
+}
+
+.font-14{
+    font-size: 14px;
+}
+
+.font-18{
+    font-size: 18px;
+}
+
+.min-ht193 {
+    min-height: 193px;
 }
